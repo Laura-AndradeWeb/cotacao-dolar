@@ -1,11 +1,11 @@
 # Cotação do Dólar
 
-Script em python que busca a cotação do dólar em uma API pública, mostra
-no termminal e salva o histórico em um CSV.
+Script em Python que busca a cotação do dólar em uma API pública, mostra
+no terminal e salva o histórico em um CSV.
 
 ## Como rodar
 1. Instale a biblioteca `pip install requests`
-2. Execute: `python cotacao.by`
+2. Execute: `cotacao.by`
 
 ## O que aprendi
 - Consumir uma API com `requests`
