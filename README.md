@@ -5,7 +5,7 @@ no terminal e salva o histórico em um CSV.
 
 ## Como rodar
 1. Instale a biblioteca `pip install requests`
-2. Execute: `cotacao.by`
+2. Execute: `cotacao.py`
 
 ## O que aprendi
 - Consumir uma API com `requests`
