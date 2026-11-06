@@ -12,3 +12,4 @@ no terminal e salva o histórico em um CSV.
 - Acessar dados dentro de dicionários (JSON)
 - Formatar texto com f-strings
 - Salvar dados em CSV
+- Tratamento de erros com `try` e `except`
